@@ -55,7 +55,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## Program:
 ```
-Client
+Client:
 import socket  
 s=socket.socket()  
 s.bind(('localhost',8000))  
@@ -82,7 +82,7 @@ while True:
 ```
 
 ## Output:
-Client
+Client:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5172129d-beae-485d-99aa-e50c865bee49" />
 
 Server:
